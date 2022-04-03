@@ -1,0 +1,21 @@
+body {
+    background: #22a6f3;
+}
+
+.relative {
+    border: solid 1px red;
+    position: relative; /* top, right, bottom left são posições usadas para movimentar */
+    top: 20px; /*podendo usar valores negativos*/
+    left: 100px;
+}
+
+#container {
+    background: #fff;
+    width: 800px;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    width: 300px;
+}
