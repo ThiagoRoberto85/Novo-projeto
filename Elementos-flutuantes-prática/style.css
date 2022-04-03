@@ -1,0 +1,33 @@
+body {
+    background: #f4f4f4;
+}
+
+#principal {
+    width: 920px;
+}
+
+.noticia{
+    background-color: lightgray;
+    padding: 5px;
+    width: 280px;
+    margin: 8px;
+    float: left;
+}
+
+.imagem-galeria {
+    background-color: white;
+    width: 265px;
+    padding: 5px;
+    float: left;
+    margin: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(35, 40, 46);
+}
